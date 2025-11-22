@@ -8,4 +8,3 @@ using a GitHub Actions workflow.
 
 - Uses GitHub Actions to deploy `index.html` to GitHub Pages
 - Triggers only when `index.html` changes on the `main` branch
-- 
